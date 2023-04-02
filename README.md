@@ -1,4 +1,4 @@
-# deselvonvilmento-web
+# desenvolvimento-web
 <p>Projeto final da matéria a introdução ao desenvolvimento web, utlizando somente HTML e CSS</p>
 
 <H2>Proposta do projeot</H2>
